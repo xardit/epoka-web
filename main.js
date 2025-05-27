@@ -1,4 +1,4 @@
-var webtitle = 'WebTitle'
+var webtitle = 'Epoka Univerisity'
 var webversion = '1.0.0'
 var webauthor = 'Author Name'
 var webdescription = 'This is a sample web application.'
